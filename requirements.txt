@@ -1,0 +1,8 @@
+requests
+tabulate
+argparse
+json
+datetime
+configparser
+geopy
+forex-python
